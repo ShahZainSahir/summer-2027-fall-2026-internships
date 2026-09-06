@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fzshah101.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)
 
-### 566 open roles (417 listed below) · 229 new this week
+### 579 open roles (418 listed below) · 242 new this week
 
-4,477 employers tracked · data as of Sep 06, 2026 at 09:11 UTC
+4,479 employers tracked · data as of Sep 06, 2026 at 13:10 UTC
 
-_374 have a cycle the employer stated · 192 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_387 have a cycle the employer stated · 192 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)** · **[📡 RSS](https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)** · **[⚙️ JSON API](https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/api/jobs.json)** · **[✉️ Email alerts](https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/#subscribe)**
 
@@ -40,7 +40,7 @@ Every link comes straight from the source — so it's real and current, not a st
 | 📆 **A real date on nearly every role** | Taken from the job portal itself wherever the portal states one, so newest-first actually means newest. The exact coverage figure is printed at the bottom of this page every run. |
 | 🧰 **Skill tags + pay, extracted** | Every posting's text is scanned for the stack it wants (Python, C++, PyTorch, …) and the pay it states — searchable on the [dashboard](https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/), and included in the CSV and API. |
 | 🔔 **Alerts your way** | [Email digests](https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/#subscribe) or [RSS](https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml) — point any reader, or a Slack/Discord RSS integration, at it. Plus a [live dashboard](https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/) with search, filters, and a saved-roles list that never leaves your browser. |
-| ⚙️ **An engine, not a spreadsheet** | 4,725 job-board endpoints (4,477 distinct employers; some run more than one board) polled every 30 minutes across 12 ATS platforms. Full source and tests in this repo. |
+| ⚙️ **An engine, not a spreadsheet** | 4,727 job-board endpoints (4,479 distinct employers; some run more than one board) polled every 30 minutes across 12 ATS platforms. Full source and tests in this repo. |
 
 ## Scope
 
@@ -85,10 +85,13 @@ If it helps you, a star means a lot and tells me to keep going.
 
 ---
 
-## Summer 2027  (228 employer-stated)
+## Summer 2027  (229 employer-stated)
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Booz Allen | University - 2027 Summer Games Software Developer Intern - Huntsville, AL 🇺🇸 🆕 | Software | Huntsville, AL | Python, Java, C++, JavaScript | Sep 04, 2026 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Software-Developer-Intern---Huntsville--AL_R0248394) |
+| Booz Allen | University - 2027 Summer Games, Data Scientist Intern - Honolulu, HI 🇺🇸 🆕 | Data & ML/AI | Honolulu, HI | No skills listed | Sep 04, 2026 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games--Data-Scientist-Intern---Honolulu--HI_R0248406) |
+| Booz Allen | University - 2027 Summer Games Software Developer Intern - Honolulu, HI 🇺🇸 🆕 | Software | Honolulu, HI | Python, Java, C++, JavaScript | Sep 04, 2026 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Software-Developer-Intern---Honolulu--HI_R0248393) |
 | Applied Materials ✓ | Summer 2027 Global Technical Learning Center Data Analyst Intern- Bachelor's/Master's (Albany, NY) 🆕 | Data & ML/AI | Albany,NY | Python, SQL, LLMs, Tableau | Sep 04, 2026 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/AlbanyNY/Summer-2027-Global-Technical-Learning-Center-Data-Analyst-Intern--Bachelor-s-Master-s--Albany--NY-_R2627551) |
 | CACI | Software Engineer Intern - Summer 2027 🇺🇸 🆕 | Software | Ypsilanti, MI, US | Python, Java, C++, Rust | Sep 04, 2026 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer-Intern---Summer-2027_331648) |
 | Hy-Vee | Cyber Security Intern- Summer 2027 🆕 | Security | Corporate Office +3 more | No skills listed | Sep 04, 2026 | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Cyber-Security-Intern--Summer-2027_R250153) |
@@ -136,6 +139,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | HD Supply ✓ | Graduate Intern, Artificial Intelligence & Data Science - Summer 2027 | Data & ML/AI | Atlanta-GA-US | Python, SQL, LLMs, AWS | Sep 02, 2026 | [Apply](https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Graduate-Intern--Artificial-Intelligence---Data-Science---Summer-2027_R26004952) |
 | CACI | DevOps/Software Engineering Intern - Summer 2027 | Software | Sterling, VA, US | Python, Java, Linux, Git | Sep 02, 2026 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/DevOps-Software-Engineering-Intern---Summer-2027_331466) |
 | Auto-Owners Insurance | Business Intelligence Developer Internship - Summer 2027 | Software | Lansing, MI | Python, SQL, Tableau | Sep 02, 2026 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer-Internship---Summer-2027_R_14417) |
+| Stokespacetechnologies | Summer 2027 Internship - Software 🇺🇸 🆕 | Software | Kent, Washington | Python, C++, Rust, TypeScript | Sep 01, 2026 | [Apply](https://job-boards.greenhouse.io/stokespacetechnologies/jobs/6176786004) |
 | TWG Global | AI Data Science Intern (SOLT) - Summer 2027 🆕 | Data & ML/AI | Santa Monica, California, United States | Python, PyTorch, scikit-learn, Pandas | Sep 01, 2026 | [Apply](https://apply.workable.com/twgai/j/263B34D737/) |
 | TWG Global | AI Engineering Intern - Summer 2027 🆕 | Data & ML/AI | Santa Monica, California, United States | LLMs, Computer Vision | Sep 01, 2026 | [Apply](https://apply.workable.com/twgai/j/772CD136FF/) |
 | TWG Global | AI Data Science Intern (MAQR) - Summer 2027 🆕 | Data & ML/AI | Santa Monica, California, United States | Python, PyTorch, TensorFlow, scikit-learn | Sep 01, 2026 | [Apply](https://apply.workable.com/twgai/j/AC536E5EE2/) |
@@ -188,9 +192,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | Philips | Intern – Data AI/ML Engineering – Plymouth, MN – Summer 2027 | Data & ML/AI | Plymouth, Minnesota, United States | Azure, Git | Aug 28, 2026 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---Data-AI-ML-Engineering---Plymouth--MN---Summer-2027_590404) |
 | Charles River Associates (CRA) | (2028 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2027) | Security | Boston +11 more | Python, C#, SQL | Aug 28, 2026 | [Apply](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8128811) |
 | Stantec | Roadway Design Intern - Infrastructure (Summer 2027) | Software | Raleigh, NC, United States | No skills listed | Aug 28, 2026 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007361) |
-| Booz Allen | University - 2027 Summer Games Cyber Security Intern - Atlanta, GA 🇺🇸 | Security | Atlanta, GA | Linux | Aug 28, 2026 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Cyber-Security-Intern---Atlanta--GA_R0248139) |
-| Booz Allen | University - 2027 Summer Games Software Developer Intern - Atlanta, GA 🇺🇸 | Software | Atlanta, GA | Python, Java, C++, JavaScript | Aug 28, 2026 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Software-Developer-Intern---Atlanta--GA_R0248138) |
-| Booz Allen | University, 2027 Summer Games Data Scientist Intern 🇺🇸 | Data & ML/AI | Atlanta, GA | No skills listed | Aug 28, 2026 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University--2027-Summer-Games-Data-Scientist-Intern_R0248140) |
 | Conagra Brands ✓ | Cybersecurity Internship - Summer 2027 | Security | Omaha, Nebraska | No skills listed | Aug 28, 2026 | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Cybersecurity-Internship---Summer-2027_Req-039965) |
 | Hewlett Packard (HP) | Software and Engineering Intern Roles - Imaging and Print 🛂 | Software | Corvallis +2 more | Python, Java, C++, C# | Aug 28, 2026 | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Corvallis-Oregon-United-States-of-America/Software-and-Engineering-Intern-Roles---Imaging-and-Print_3168142-1) |
 | Mastercard | Data Scientist Intern, Summer 2027 – St. Louis, MO, US _(3 openings)_ | Data & ML/AI | O'Fallon, Missouri | No skills listed | Aug 28, 2026 | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Data-Scientist-Intern--Summer-2027---St-Louis--MO--US_R-284869) [#2](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Data-Scientist-Intern--Summer-2027---St-Louis--MO--US_R-284879) [#3](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Data-Scientist-Intern--Summer-2027---St-Louis--MO--US_R-284877) |
@@ -539,7 +540,7 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 | AMD | ~Sep | ~Sep · any day now | ⏳ waiting |
 | Anduril Industries | ~Sep | ~Sep · any day now | ⏳ waiting |
 
-_274 companies on the [full radar](https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/#radar). **145** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
+_275 companies on the [full radar](https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/#radar). **146** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
 <summary><strong>Recently closed</strong> — 40 roles that left the list in the last 14 days</summary>
@@ -606,7 +607,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,238 of 4,725 registered boards returned successfully across 12 ATS platforms (95% of boards attempted, 89% of the full registry) · completed in 1098.1s · 565 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,362 of 4,727 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 92% of the full registry) · completed in 1126.6s · 582 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

@@ -447,6 +447,9 @@
     "Summer 2027": {
      "first_posted": "2026-08-27",
      "role_ids": [
+      "workday:bah:/job/Annapolis-Junction-MD/University---2027-Summer-Games-Cyber-Security-Intern---Annapolis-Junction--MD_R0248414",
+      "workday:bah:/job/Annapolis-Junction-MD/University---2027-Summer-Games-Data-Scientist-Intern---Annapolis-Junction--MD_R0248408",
+      "workday:bah:/job/Annapolis-Junction-MD/University---2027-Summer-Games-Software-Developer-Intern---Annapolis-Junction--MD_R0248403",
       "workday:bah:/job/Atlanta-GA/University---2027-Summer-Games-Cyber-Security-Intern---Atlanta--GA_R0248139",
       "workday:bah:/job/Atlanta-GA/University---2027-Summer-Games-Software-Developer-Intern---Atlanta--GA_R0248138",
       "workday:bah:/job/Atlanta-GA/University--2027-Summer-Games-Data-Scientist-Intern_R0248140",
@@ -459,6 +462,15 @@
       "workday:bah:/job/El-Segundo-CA/University---2027-Summer-Games-Cyber-Security-Intern---El-Segundo--CA_R0248047",
       "workday:bah:/job/El-Segundo-CA/University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046",
       "workday:bah:/job/El-Segundo-CA/University--2027-Summer-Games-Data-Scientist-Intern_R0248050",
+      "workday:bah:/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Cyber-Security-Intern---Ft-Walton-Beach--FL_R0248416",
+      "workday:bah:/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Data-Scientist-Intern---Ft-Walton-Beach--FL_R0248409",
+      "workday:bah:/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Software-Developer-Intern---Ft-Walton-Beach--FL_R0248404",
+      "workday:bah:/job/Honolulu-HI/University---2027-Summer-Games--Data-Scientist-Intern---Honolulu--HI_R0248406",
+      "workday:bah:/job/Honolulu-HI/University---2027-Summer-Games-Cyber-Security-Intern---Honolulu--HI_R0248411",
+      "workday:bah:/job/Honolulu-HI/University---2027-Summer-Games-Software-Developer-Intern---Honolulu--HI_R0248393",
+      "workday:bah:/job/Huntsville-AL/University---2027-Summer-Games-Cyber-Security-Intern---Huntsville--AL_R0248412",
+      "workday:bah:/job/Huntsville-AL/University---2027-Summer-Games-Data-Scientist-Intern---Huntsville--AL_R0248407",
+      "workday:bah:/job/Huntsville-AL/University---2027-Summer-Games-Software-Developer-Intern---Huntsville--AL_R0248394",
       "workday:bah:/job/McLean-VA/University---2027-Summer-Games-Cyber-Security-Intern---McLean--VA_R0248034",
       "workday:bah:/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0248037",
       "workday:bah:/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029",
@@ -469,7 +481,7 @@
       "workday:bah:/job/San-Diego-CA/University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0248038",
       "workday:bah:/job/San-Diego-CA/University--2027-Summer-Games-Cyber-Security-Intern_R0248043"
      ],
-     "count": 21
+     "count": 33
     }
    }
   },
@@ -2390,6 +2402,18 @@
     }
    }
   },
+  "stokespacetechnologies": {
+   "name": "Stokespacetechnologies",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "greenhouse:stokespacetechnologies:6176786004"
+     ],
+     "count": 1
+    }
+   }
+  },
   "stryker": {
    "name": "Stryker",
    "cycles": {
@@ -2865,5 +2889,5 @@
    }
   }
  },
- "updated_at": "2026-09-06T09:11:26Z"
+ "updated_at": "2026-09-06T13:10:17Z"
 }
