@@ -251,6 +251,18 @@
     }
    }
   },
+  "applied materials": {
+   "name": "Applied Materials",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-04",
+     "role_ids": [
+      "workday:amat:/job/AlbanyNY/Summer-2027-Global-Technical-Learning-Center-Data-Analyst-Intern--Bachelor-s-Master-s--Albany--NY-_R2627551"
+     ],
+     "count": 1
+    }
+   }
+  },
   "assured guaranty": {
    "name": "Assured Guaranty",
    "cycles": {
@@ -2853,5 +2865,5 @@
    }
   }
  },
- "updated_at": "2026-09-06T00:08:02Z"
+ "updated_at": "2026-09-06T04:49:01Z"
 }
