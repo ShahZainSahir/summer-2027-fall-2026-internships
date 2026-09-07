@@ -1,6 +1,16 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:hpe:/job/Bloomington-Minnesota-United-States-of-America/HPC-AI-Systems-Administrator-Intern_1213396",
+      "workday:icf:/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002",
+      "workday:xcelenergy:/job/Denver-CO-80205/AI---Automation-Intern--CO_JR115739-1",
+      "workday:xcelenergy:/job/Denver-CO-80223/Reliability-Data-Analyst-Intern--CO_JR115833"
+    ],
+    "telegram": [
+      "workday:hpe:/job/Bloomington-Minnesota-United-States-of-America/HPC-AI-Systems-Administrator-Intern_1213396",
+      "workday:icf:/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002",
+      "workday:xcelenergy:/job/Denver-CO-80205/AI---Automation-Intern--CO_JR115739-1",
+      "workday:xcelenergy:/job/Denver-CO-80223/Reliability-Data-Analyst-Intern--CO_JR115833"
+    ]
   }
 }

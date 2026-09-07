@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-07T01:14:29Z</updated>
+  <updated>2026-09-07T06:19:29Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:hpe:/job/Bloomington-Minnesota-United-States-of-America/HPC-AI-Systems-Administrator-Intern_1213396</id>
+    <title>Hewlett Packard Enterprise: HPC AI Systems Administrator Intern</title>
+    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/HPC-AI-Systems-Administrator-Intern_1213396"/>
+    <updated>2026-09-07T06:19:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Bloomington, Minnesota, United States of America · Python, Bash, HTML/CSS, Linux, Git · H-1B track record: ~499 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:icf:/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002</id>
+    <title>ICF: 2027 Summer Intern, Software Developer (Reston, VA) 🛂</title>
+    <link href="https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002"/>
+    <updated>2026-09-07T06:19:29Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Reston, VA · Python, Java, JavaScript, SQL, HTML/CSS · sponsorship: no-sponsorship · H-1B track record: ~35 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:xcelenergy:/job/Denver-CO-80205/AI---Automation-Intern--CO_JR115739-1</id>
+    <title>Xcel Energy: AI &amp; Automation Intern- CO</title>
+    <link href="https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI---Automation-Intern--CO_JR115739-1"/>
+    <updated>2026-09-07T06:19:29Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Denver, CO, 80205 · $20.9–$22.1/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:xcelenergy:/job/Denver-CO-80223/Reliability-Data-Analyst-Intern--CO_JR115833</id>
+    <title>Xcel Energy: Reliability Data Analyst Intern- CO</title>
+    <link href="https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Reliability-Data-Analyst-Intern--CO_JR115833"/>
+    <updated>2026-09-07T06:19:29Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Denver, CO, 80223 · $19–$20.9/hr · Python, SQL, Databricks</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:stokespacetechnologies:6176786004</id>
     <title>Stokespacetechnologies: Summer 2027 Internship - Software 🇺🇸</title>
@@ -774,37 +806,5 @@
     <updated>2026-09-02T20:22:42Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Carmel, IN · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:alliedsolutions:/job/Carmel-IN/Software-Delivery-Management-Intern_R-011086</id>
-    <title>Allied Solutions: Software Delivery Management Intern</title>
-    <link href="https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Software-Delivery-Management-Intern_R-011086"/>
-    <updated>2026-09-02T20:22:42Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Carmel, IN · Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:alliedsolutions:/job/Carmel-IN/Software-Engineering-Intern_R-011087</id>
-    <title>Allied Solutions: Software Engineering Intern</title>
-    <link href="https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Software-Engineering-Intern_R-011087"/>
-    <updated>2026-09-02T20:22:42Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Carmel, IN · Python, Java, C#, JavaScript, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Summer-Fall-2027-_01870194</id>
-    <title>RTX: Software Engineering Co-op (Summer/Fall 2027) 🛂</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Summer-Fall-2027-_01870194"/>
-    <updated>2026-09-02T20:22:42Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 · Python, C++ · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hdsupply:/job/Atlanta-GA-US/Graduate-Intern--Artificial-Intelligence---Data-Science---Summer-2027_R26004952</id>
-    <title>HD Supply: Graduate Intern, Artificial Intelligence &amp; Data Science - Summer 2027</title>
-    <link href="https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Graduate-Intern--Artificial-Intelligence---Data-Science---Summer-2027_R26004952"/>
-    <updated>2026-09-02T20:22:42Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Atlanta-GA-US · Python, SQL, LLMs, AWS, GCP · H-1B track record: ~27 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

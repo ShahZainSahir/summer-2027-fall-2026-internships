@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-07T01:14:29Z",
- "data_as_of": "2026-09-07T01:14:29Z",
- "rendered_at": "2026-09-07T01:14:30Z",
+ "generated_at": "2026-09-07T06:19:29Z",
+ "data_as_of": "2026-09-07T06:19:29Z",
+ "rendered_at": "2026-09-07T06:19:30Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -478,25 +478,6 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-08-01"
-   }
-  },
-  {
-   "company": "CNO Financial Group",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-03",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-03",
-   "days_until": -35,
-   "status": "open",
-   "url": "https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Artificial-Intelligence--AI--IT-Intern-2027---REMOTE_JR170389",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-08-03"
    }
   },
   {
@@ -2397,6 +2378,44 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-09-04"
+   }
+  },
+  {
+   "company": "ICF",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-07",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-07"
+   }
+  },
+  {
+   "company": "Xcel Energy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-07",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI---Automation-Intern--CO_JR115739-1",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-07"
    }
   },
   {
@@ -4984,6 +5003,25 @@
    }
   },
   {
+   "company": "CNO Financial Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-03",
+   "days_until": -35,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-03"
+   }
+  },
+  {
    "company": "Netsmart",
    "last_cycle_posted": "",
    "posted_on": "2026-08-03",
@@ -5231,5 +5269,5 @@
    }
   }
  ],
- "count": 275
+ "count": 277
 }
