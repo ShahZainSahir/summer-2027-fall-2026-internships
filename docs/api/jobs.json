@@ -1,11 +1,39 @@
 {
- "generated_at": "2026-09-07T18:11:00Z",
- "data_as_of": "2026-09-07T18:11:00Z",
- "rendered_at": "2026-09-07T18:11:01Z",
+ "generated_at": "2026-09-07T21:45:03Z",
+ "data_as_of": "2026-09-07T21:45:03Z",
+ "rendered_at": "2026-09-07T21:45:04Z",
  "source": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 583,
+ "count": 584,
  "jobs": [
+  {
+   "id": "workday:hp:/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4740-1",
+   "company": "Hewlett Packard (HP)",
+   "title": "Software Product Security Engineer Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Security",
+   "location": "Spring, Texas, United States of America",
+   "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4740-1",
+   "posted_at": "2026-09-07T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-07T21:45:03Z",
+   "sponsorship": "no-sponsorship",
+   "salary": "$35–$40/hr",
+   "skills": [
+    "Python",
+    "Java",
+    "C#",
+    "TypeScript",
+    "AWS",
+    "Azure"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "greenhouse:dropbox:8106224",
    "company": "Dropbox",
