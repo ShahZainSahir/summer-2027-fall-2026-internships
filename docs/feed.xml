@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-07T12:41:04Z</updated>
+  <updated>2026-09-07T18:11:00Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:dropbox:8106224</id>
+    <title>Dropbox: Software Engineering Intern (Summer 2027)</title>
+    <link href="https://jobs.dropbox.com/listing/8106224?gh_jid=8106224"/>
+    <updated>2026-09-07T18:11:00Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Remote - US: All locations · Python, JavaScript · H-1B track record: ~211 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:hpe:/job/Bloomington-Minnesota-United-States-of-America/HPC-AI-Systems-Administrator-Intern_1213396</id>
     <title>Hewlett Packard Enterprise: HPC AI Systems Administrator Intern</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-02T20:22:42Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Carmel, IN</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:alliedsolutions:/job/Carmel-IN/Data-Science-Intern_R-011077</id>
-    <title>Allied Solutions: Data Science Intern</title>
-    <link href="https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Data-Science-Intern_R-011077"/>
-    <updated>2026-09-02T20:22:42Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Carmel, IN · Python, SQL</summary>
   </entry>
 </feed>
