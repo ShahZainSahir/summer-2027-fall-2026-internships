@@ -1,40 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "ashby:talos-trading:91fd5274-3b6b-43cf-b366-9f6dc2ae5977",
-      "ashby:talos-trading:2c833180-484f-4657-80e3-f822cf1a0285",
-      "workday:bah:/job/McLean-VA/University--Applied-AI-Software-Development-Intern_R0248854",
-      "workday:bah:/job/Washington-DC/University--Applied-AI-Intern_R0248853",
-      "workday:chrobinson:/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323",
-      "greenhouse:datadog:8052118",
-      "workday:deluxe:/job/Minneapolis-MN-USA/Software-Engineer---Intern_261115WD",
-      "greenhouse:fspco-op012325:8783960002",
-      "smartrecruiters:LLNL:3743990015112846",
-      "smartrecruiters:M3USA:744000148244649",
-      "workday:meijer:/job/Grand-Rapids-MI/Data-Science-Intern---Summer-2027_R000699579",
-      "workday:motorolasolutions:/job/Chicago-IL/Software-Engineering-Intern---Summer-2027_R68388",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-179--855-35Th-St-NE--BLDG-179/Software-Engineering-Intern--Summer-Fall-2027-_01873006",
-      "greenhouse:syskahennessy:8177938",
-      "workday:usbank:/job/Cincinnati-OH/XMLNAME-2027-Information-Security-Summer-Intern_2026-0025770",
-      "workday:xcelenergy:/job/Amarillo-TX-79101/Data-Analyst-Intern--TX_JR115565-1"
-    ],
-    "telegram": [
-      "ashby:talos-trading:91fd5274-3b6b-43cf-b366-9f6dc2ae5977",
-      "ashby:talos-trading:2c833180-484f-4657-80e3-f822cf1a0285",
-      "workday:bah:/job/McLean-VA/University--Applied-AI-Software-Development-Intern_R0248854",
-      "workday:bah:/job/Washington-DC/University--Applied-AI-Intern_R0248853",
-      "workday:chrobinson:/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323",
-      "greenhouse:datadog:8052118",
-      "workday:deluxe:/job/Minneapolis-MN-USA/Software-Engineer---Intern_261115WD",
-      "greenhouse:fspco-op012325:8783960002",
-      "smartrecruiters:LLNL:3743990015112846",
-      "smartrecruiters:M3USA:744000148244649",
-      "workday:meijer:/job/Grand-Rapids-MI/Data-Science-Intern---Summer-2027_R000699579",
-      "workday:motorolasolutions:/job/Chicago-IL/Software-Engineering-Intern---Summer-2027_R68388",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-179--855-35Th-St-NE--BLDG-179/Software-Engineering-Intern--Summer-Fall-2027-_01873006",
-      "greenhouse:syskahennessy:8177938",
-      "workday:usbank:/job/Cincinnati-OH/XMLNAME-2027-Information-Security-Summer-Intern_2026-0025770",
-      "workday:xcelenergy:/job/Amarillo-TX-79101/Data-Analyst-Intern--TX_JR115565-1"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
