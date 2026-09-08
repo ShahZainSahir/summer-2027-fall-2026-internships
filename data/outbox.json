@@ -1,6 +1,16 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:slihrms:/job/USGAAtlanta2018-Powers-Ferry-Rd/Water-Infrastructure-Engineering-Intern---Summer-2027_R-163480-1",
+      "workday:gilead:/job/United-States---California---Foster-City/Intern---Development---CDS-AI-Research-Center_R0054721",
+      "workday:gilead:/job/United-States---California---Foster-City/Intern---Development---CDS-AI-Research-Center_R0054625",
+      "workday:gilead:/job/United-States---California---Foster-City/Intern---Development---DevOps-Business-Strategy-Leader_R0054772"
+    ],
+    "telegram": [
+      "workday:slihrms:/job/USGAAtlanta2018-Powers-Ferry-Rd/Water-Infrastructure-Engineering-Intern---Summer-2027_R-163480-1",
+      "workday:gilead:/job/United-States---California---Foster-City/Intern---Development---CDS-AI-Research-Center_R0054721",
+      "workday:gilead:/job/United-States---California---Foster-City/Intern---Development---CDS-AI-Research-Center_R0054625",
+      "workday:gilead:/job/United-States---California---Foster-City/Intern---Development---DevOps-Business-Strategy-Leader_R0054772"
+    ]
   }
 }

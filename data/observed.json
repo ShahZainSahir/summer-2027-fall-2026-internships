@@ -288,6 +288,18 @@
     }
    }
   },
+  "atkinsréalis": {
+   "name": "AtkinsRéalis",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "workday:slihrms:/job/USGAAtlanta2018-Powers-Ferry-Rd/Water-Infrastructure-Engineering-Intern---Summer-2027_R-163480-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "atoms": {
    "name": "Atoms",
    "cycles": {
@@ -2460,12 +2472,14 @@
     "Summer 2027": {
      "first_posted": "2026-08-31",
      "role_ids": [
+      "workday:stryker:/job/Florida-Virtual-Address/Data-Science-Intern_R572731",
+      "workday:stryker:/job/Flower-Mound-Texas/Commercial-Operations-Software-Engineering-Intern---Flower-Mound--TX_R572941",
       "workday:stryker:/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Software-Engineering---Florida_R572629-1",
       "workday:stryker:/job/Fort-Wayne-Indiana/Summer-2027-Internship---Software-Engineering---Indiana_R572631",
       "workday:stryker:/job/Irvine-California/Summer-2027-Internship---Statistical-Programming---California_R572769",
       "workday:stryker:/job/Portage-Michigan/Summer-2027-Internship---Software-Engineering---Michigan_R572632-1"
      ],
-     "count": 4
+     "count": 6
     }
    }
   },
@@ -2937,5 +2951,5 @@
    }
   }
  },
- "updated_at": "2026-09-08T09:20:43Z"
+ "updated_at": "2026-09-08T13:53:01Z"
 }

@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-08T09:20:43Z",
- "data_as_of": "2026-09-08T09:20:43Z",
- "rendered_at": "2026-09-08T09:20:43Z",
+ "generated_at": "2026-09-08T13:53:01Z",
+ "data_as_of": "2026-09-08T13:53:01Z",
+ "rendered_at": "2026-09-08T13:53:02Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -1726,7 +1726,7 @@
    "expected": "2026-08-31",
    "days_until": -8,
    "status": "open",
-   "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Software-Engineering---Florida_R572629-1",
+   "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Florida-Virtual-Address/Data-Science-Intern_R572731",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2454,6 +2454,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-09-07"
+   }
+  },
+  {
+   "company": "AtkinsRéalis",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USGAAtlanta2018-Powers-Ferry-Rd/Water-Infrastructure-Engineering-Intern---Summer-2027_R-163480-1",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-08"
    }
   },
   {
@@ -5288,5 +5307,5 @@
    }
   }
  ],
- "count": 278
+ "count": 279
 }
