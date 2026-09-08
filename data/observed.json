@@ -102,6 +102,18 @@
     }
    }
   },
+  "allen control systems": {
+   "name": "Allen Control Systems",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "ashby:allen-control-systems:a7831fef-7125-4c03-b828-5f0472989037"
+     ],
+     "count": 1
+    }
+   }
+  },
   "allied solutions": {
    "name": "Allied Solutions",
    "cycles": {
@@ -208,9 +220,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-27",
      "role_ids": [
+      "lever:anavationllc:a5c70b6a-2d16-4774-9043-677456614b1b",
       "lever:anavationllc:f7c83978-8510-409c-a5a3-17618511f819"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -706,6 +719,22 @@
     }
    }
   },
+  "coinbase": {
+   "name": "Coinbase",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "greenhouse:coinbase:8168315",
+      "greenhouse:coinbase:8175441",
+      "greenhouse:coinbase:8175459",
+      "greenhouse:coinbase:8175462",
+      "greenhouse:coinbase:8175471"
+     ],
+     "count": 5
+    }
+   }
+  },
   "conagra brands": {
    "name": "Conagra Brands",
    "cycles": {
@@ -799,6 +828,18 @@
       "greenhouse:devtechnology:8728292002"
      ],
      "count": 4
+    }
+   }
+  },
+  "devon energy": {
+   "name": "Devon Energy",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "workday:devonenergy:/job/Oklahoma-City-OK/Cyber-Security-Intern-2027_R26303-1"
+     ],
+     "count": 1
     }
    }
   },
@@ -1778,6 +1819,18 @@
       "workday:motorolasolutions:/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---2027-Co-op_R67782"
      ],
      "count": 5
+    }
+   }
+  },
+  "neighbor": {
+   "name": "Neighbor",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-03",
+     "role_ids": [
+      "lever:neighbor:7d66629f-3f4b-41ee-a324-fe0154e13c46"
+     ],
+     "count": 1
     }
    }
   },
@@ -3031,5 +3084,5 @@
    }
   }
  },
- "updated_at": "2026-09-08T20:30:48Z"
+ "updated_at": "2026-09-08T23:13:29Z"
 }
