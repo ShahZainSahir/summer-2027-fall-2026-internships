@@ -5,8 +5,56 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-08T00:03:10Z</updated>
+  <updated>2026-09-08T04:43:29Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:gilead:/job/United-States---North-Carolina---Raleigh/Intern---CFO---IT--AI-Engineer-_R0054744</id>
+    <title>Gilead Sciences: Intern - CFO - IT (AI Engineer) 🛂</title>
+    <link href="https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---North-Carolina---Raleigh/Intern---CFO---IT--AI-Engineer-_R0054744"/>
+    <updated>2026-09-08T04:43:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · United States - North Carolina - Raleigh · LLMs, AWS, Databricks · sponsorship: no-sponsorship · H-1B track record: ~272 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---AI-ML-Computational-Toxicology---Intern_R412871</id>
+    <title>Merck: 2027 Future Talent Program - AI/ML Computational Toxicology - Intern 🛂</title>
+    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---AI-ML-Computational-Toxicology---Intern_R412871"/>
+    <updated>2026-09-08T04:43:29Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · USA - Pennsylvania - West Point · Python, SQL, PyTorch, TensorFlow, scikit-learn · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Laboratory-Operations-AI---Digital-Transformation---Intern_R413048</id>
+    <title>Merck: 2027 Future Talent Program – Laboratory Operations AI &amp; Digital Transformation – Intern 🛂</title>
+    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Laboratory-Operations-AI---Digital-Transformation---Intern_R413048"/>
+    <updated>2026-09-08T04:43:29Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · USA - Pennsylvania - West Point · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:msd:/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Medical-Data-Scientist---Intern_R412403</id>
+    <title>Merck: 2027 Future Talent Program - Medical Data Scientist - Intern 🛂</title>
+    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Medical-Data-Scientist---Intern_R412403"/>
+    <updated>2026-09-08T04:43:29Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · USA - Pennsylvania - North Wales (Upper Gwynedd) · Python, SQL · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:msd:/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861</id>
+    <title>Merck: 2027 Future Talent Program - Nonclinical Drug Safety Data Scientist - Intern 🛂</title>
+    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861"/>
+    <updated>2026-09-08T04:43:29Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · USA - Massachusetts - Boston (MA Parcel B Laboratory) · Python, scikit-learn, Pandas · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Standardizing-Automation-Scripting-Practices-Through-AI-Enabled-Knowledge-Repository---Intern_R412939</id>
+    <title>Merck: 2027 Future Talent Program - Standardizing Automation Scripting Practices Through AI-Enabled Knowledge Repository - Intern</title>
+    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Standardizing-Automation-Scripting-Practices-Through-AI-Enabled-Knowledge-Repository---Intern_R412939"/>
+    <updated>2026-09-08T04:43:29Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · USA - Pennsylvania - West Point · Python, C++, C#, SQL, LLMs</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:hp:/job/Vancouver-Washington-United-States-of-America/Business-Intelligence-and-Infrastructure-Analysts--Intern_UNI4669-1</id>
     <title>Hewlett Packard (HP): Business Intelligence and Infrastructure Analysts  Intern</title>
@@ -758,53 +806,5 @@
     <updated>2026-09-02T22:53:50Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Data &amp; ML/AI · Los Angeles, CA · Python, SQL · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:reflect-orbital:d2ad1427-89aa-404d-8678-7b8e6dace5e2</id>
-    <title>Reflect Orbital: Flight Software Engineering Intern</title>
-    <link href="https://jobs.ashbyhq.com/reflect-orbital/d2ad1427-89aa-404d-8678-7b8e6dace5e2"/>
-    <updated>2026-09-02T22:53:50Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Hawthorne, CA · $27 – $31 per hour</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:reflect-orbital:d5ade048-5555-4a77-b002-d117254b6e6b</id>
-    <title>Reflect Orbital: Embedded Firmware Engineering Intern</title>
-    <link href="https://jobs.ashbyhq.com/reflect-orbital/d5ade048-5555-4a77-b002-d117254b6e6b"/>
-    <updated>2026-09-02T22:53:50Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Hawthorne, CA · $27 – $31 per hour · Python, C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:LLNL:3743990015035697</id>
-    <title>Lawrence Livermore National Laboratory (LLNL): Protocol and Special Events Undergraduate AI and Digital Solutions Intern 🇺🇸</title>
-    <link href="https://jobs.smartrecruiters.com/LLNL/3743990015035697"/>
-    <updated>2026-09-02T22:53:50Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Livermore, CA, United States (Remote) · LLMs · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hp:/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4744-1</id>
-    <title>Hewlett Packard (HP): Software Product Security Engineer Intern 🛂</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4744-1"/>
-    <updated>2026-09-02T22:53:50Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · Security · Spring, Texas, United States of America · $35–$40/hr · Python, C++, C#, TypeScript · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:generalmatter:5377131008</id>
-    <title>General Matter: Summer 2027 Internship - Embedded Software Engineering</title>
-    <link href="https://job-boards.greenhouse.io/generalmatter/jobs/5377131008"/>
-    <updated>2026-09-02T20:22:42Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Los Angeles, CA · $32–$46/hr · Python, C++, Go, Rust</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ehzq.fa.us2.oraclecloud.com:115752</id>
-    <title>Grant Thornton: Cybersecurity and Privacy Intern - Summer 2027 🛂</title>
-    <link href="https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115752"/>
-    <updated>2026-09-02T20:22:42Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Los Angeles, CA, United States · $40/hr · sponsorship: no-sponsorship · H-1B track record: ~118 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

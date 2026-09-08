@@ -1642,6 +1642,22 @@
     }
    }
   },
+  "merck": {
+   "name": "Merck",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "workday:msd:/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861",
+      "workday:msd:/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Medical-Data-Scientist---Intern_R412403",
+      "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---AI-ML-Computational-Toxicology---Intern_R412871",
+      "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Laboratory-Operations-AI---Digital-Transformation---Intern_R413048",
+      "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Standardizing-Automation-Scripting-Practices-Through-AI-Enabled-Knowledge-Repository---Intern_R412939"
+     ],
+     "count": 5
+    }
+   }
+  },
   "momentive": {
    "name": "Momentive",
    "cycles": {
@@ -2921,5 +2937,5 @@
    }
   }
  },
- "updated_at": "2026-09-08T00:03:10Z"
+ "updated_at": "2026-09-08T04:43:29Z"
 }
