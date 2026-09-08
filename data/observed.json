@@ -1665,9 +1665,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-08",
      "role_ids": [
-      "workday:meijer:/job/Grand-Rapids-MI/Data-Science-Intern---Summer-2027_R000699579"
+      "workday:meijer:/job/Grand-Rapids-MI/Data-Science-Intern---Summer-2027_R000699579",
+      "workday:meijer:/job/Grand-Rapids-MI/Information-Security-Intern--Summer-2027_R000698302"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1810,7 +1811,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 11,
+     "count": 12,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247483",
@@ -1822,7 +1823,8 @@
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Returning-Intern-Software-Engineer_R10242378",
-      "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910"
+      "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910",
+      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842"
      ]
     },
     "Fall 2026": {
@@ -2159,6 +2161,18 @@
     }
    }
   },
+  "rf smart": {
+   "name": "RF-SMART",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "greenhouse:rfsmart:5409034008"
+     ],
+     "count": 1
+    }
+   }
+  },
   "rivet industries": {
    "name": "Rivet Industries",
    "cycles": {
@@ -2206,6 +2220,7 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Software-Engineering-Intern-Summer-2027-_01870349-1",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineering-Intern--Summer-2027-_01868241",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineering-Intern--Summer-2027-_01871019",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-Intern---Summer-2027-_01870613",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer-Fall-2027---Onsite-_01869518",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern--Summer-2027-_01866136",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01863980-1",
@@ -2217,7 +2232,7 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-179--855-35Th-St-NE--BLDG-179/Software-Engineering-Intern--Summer-Fall-2027-_01873006",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Software-Engineering-Intern--Summer-2027-_01867324"
      ],
-     "count": 15
+     "count": 16
     }
    }
   },
@@ -2528,9 +2543,10 @@
      "first_posted": "2026-09-08",
      "role_ids": [
       "ashby:talos-trading:2c833180-484f-4657-80e3-f822cf1a0285",
-      "ashby:talos-trading:91fd5274-3b6b-43cf-b366-9f6dc2ae5977"
+      "ashby:talos-trading:91fd5274-3b6b-43cf-b366-9f6dc2ae5977",
+      "ashby:talos-trading:d6d0c99a-f281-4efe-89c4-026f7f5edc2b"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -3015,5 +3031,5 @@
    }
   }
  },
- "updated_at": "2026-09-08T17:46:04Z"
+ "updated_at": "2026-09-08T20:30:48Z"
 }
