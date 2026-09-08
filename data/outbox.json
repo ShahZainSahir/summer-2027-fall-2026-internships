@@ -1,38 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "ashby:allen-control-systems:a7831fef-7125-4c03-b828-5f0472989037",
-      "lever:anavationllc:a5c70b6a-2d16-4774-9043-677456614b1b",
-      "oracle:hdjq.fa.us2.oraclecloud.com:26010396",
-      "lever:neighbor:7d66629f-3f4b-41ee-a324-fe0154e13c46",
-      "workday:allegion:/job/Farmington-CT/Firmware-Engineer-Intern_JR37449-1",
-      "greenhouse:coinbase:8175471",
-      "greenhouse:coinbase:8175459",
-      "greenhouse:coinbase:8175462",
-      "greenhouse:coinbase:8175441",
-      "greenhouse:coinbase:8168315",
-      "workday:devonenergy:/job/Oklahoma-City-OK/Cyber-Security-Intern-2027_R26303-1",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical-Firmware--Winter-Spring-Co-op--Onsite-_01871872",
-      "workday:swbc:/job/San-Antonio-TX/DevOps-Intern_R0015484-2",
-      "workday:swbc:/job/San-Antonio-TX/Software-Engineering-Intern_R0015482-2",
-      "workday:boeing:/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687"
-    ],
-    "telegram": [
-      "ashby:allen-control-systems:a7831fef-7125-4c03-b828-5f0472989037",
-      "lever:anavationllc:a5c70b6a-2d16-4774-9043-677456614b1b",
-      "oracle:hdjq.fa.us2.oraclecloud.com:26010396",
-      "lever:neighbor:7d66629f-3f4b-41ee-a324-fe0154e13c46",
-      "workday:allegion:/job/Farmington-CT/Firmware-Engineer-Intern_JR37449-1",
-      "greenhouse:coinbase:8175471",
-      "greenhouse:coinbase:8175459",
-      "greenhouse:coinbase:8175462",
-      "greenhouse:coinbase:8175441",
-      "greenhouse:coinbase:8168315",
-      "workday:devonenergy:/job/Oklahoma-City-OK/Cyber-Security-Intern-2027_R26303-1",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical-Firmware--Winter-Spring-Co-op--Onsite-_01871872",
-      "workday:swbc:/job/San-Antonio-TX/DevOps-Intern_R0015484-2",
-      "workday:swbc:/job/San-Antonio-TX/Software-Engineering-Intern_R0015482-2",
-      "workday:boeing:/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
