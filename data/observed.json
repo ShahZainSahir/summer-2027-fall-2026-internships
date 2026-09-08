@@ -535,6 +535,18 @@
     }
    }
   },
+  "c h robinson": {
+   "name": "C.H. Robinson",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "workday:chrobinson:/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323"
+     ],
+     "count": 1
+    }
+   }
+  },
   "caci": {
    "name": "CACI",
    "cycles": {
@@ -729,6 +741,18 @@
      "role_ids": [
       "ashby:creatify:75a1f1ad-13d2-4513-952c-71b6dfcaa84f"
      ]
+    }
+   }
+  },
+  "datadog": {
+   "name": "Datadog",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "greenhouse:datadog:8052118"
+     ],
+     "count": 1
     }
    }
   },
@@ -1635,6 +1659,18 @@
     }
    }
   },
+  "meijer": {
+   "name": "Meijer",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "workday:meijer:/job/Grand-Rapids-MI/Data-Science-Intern---Summer-2027_R000699579"
+     ],
+     "count": 1
+    }
+   }
+  },
   "melius": {
    "name": "Melius",
    "cycles": {
@@ -1735,11 +1771,12 @@
      "first_posted": "2026-08-14",
      "role_ids": [
       "workday:motorolasolutions:/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740",
+      "workday:motorolasolutions:/job/Chicago-IL/Software-Engineering-Intern---Summer-2027_R68388",
       "workday:motorolasolutions:/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1",
       "workday:motorolasolutions:/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R68363",
       "workday:motorolasolutions:/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---2027-Co-op_R67782"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -2177,9 +2214,10 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871442",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871444",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01867487",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-179--855-35Th-St-NE--BLDG-179/Software-Engineering-Intern--Summer-Fall-2027-_01873006",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Software-Engineering-Intern--Summer-2027-_01867324"
      ],
-     "count": 14
+     "count": 15
     }
    }
   },
@@ -2483,6 +2521,19 @@
     }
    }
   },
+  "talos": {
+   "name": "Talos",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "ashby:talos-trading:2c833180-484f-4657-80e3-f822cf1a0285",
+      "ashby:talos-trading:91fd5274-3b6b-43cf-b366-9f6dc2ae5977"
+     ],
+     "count": 2
+    }
+   }
+  },
   "tarrant regional water district": {
    "name": "Tarrant Regional Water District",
    "cycles": {
@@ -2645,6 +2696,18 @@
       "workable:twgai:AC536E5EE2"
      ],
      "count": 3
+    }
+   }
+  },
+  "u s bank": {
+   "name": "U.S. Bank",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "workday:usbank:/job/Cincinnati-OH/XMLNAME-2027-Information-Security-Summer-Intern_2026-0025770"
+     ],
+     "count": 1
     }
    }
   },
@@ -2931,10 +2994,11 @@
     "Summer 2027": {
      "first_posted": "2026-09-07",
      "role_ids": [
+      "workday:xcelenergy:/job/Amarillo-TX-79101/Data-Analyst-Intern--TX_JR115565-1",
       "workday:xcelenergy:/job/Denver-CO-80205/AI---Automation-Intern--CO_JR115739-1",
       "workday:xcelenergy:/job/Denver-CO-80223/Reliability-Data-Analyst-Intern--CO_JR115833"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2951,5 +3015,5 @@
    }
   }
  },
- "updated_at": "2026-09-08T13:53:01Z"
+ "updated_at": "2026-09-08T17:46:04Z"
 }
