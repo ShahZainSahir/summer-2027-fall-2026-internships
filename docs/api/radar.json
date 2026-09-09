@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-09T17:10:04Z",
- "data_as_of": "2026-09-09T17:10:04Z",
- "rendered_at": "2026-09-09T17:10:04Z",
+ "generated_at": "2026-09-09T20:02:21Z",
+ "data_as_of": "2026-09-09T20:02:21Z",
+ "rendered_at": "2026-09-09T20:02:21Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -2581,7 +2581,7 @@
    "expected": "2026-09-08",
    "days_until": -1,
    "status": "open",
-   "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Irvine-CA/Software-Engineering-Intern---Summer-2027--Irvine--CA-_R202682173",
+   "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Scientist-Intern---Summer-2027--Atlanta--GA-_R202682164",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2772,6 +2772,25 @@
    "days_until": 0,
    "status": "open",
    "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19888-1",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-09"
+   }
+  },
+  {
+   "company": "Saronic",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-09",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-09",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/saronic/60afb634-5515-4347-824a-3816735541c2",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -5573,5 +5592,5 @@
    }
   }
  ],
- "count": 293
+ "count": 294
 }

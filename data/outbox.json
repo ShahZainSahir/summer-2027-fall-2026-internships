@@ -1,6 +1,22 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "lever:crestoperations:e012721c-e731-483d-a4e3-1a240c48bfbd",
+      "ashby:interplay:bdf67758-1f20-4a01-8bb3-ccebfa79e9ac",
+      "ashby:saronic:60afb634-5515-4347-824a-3816735541c2",
+      "oracle:edbz.fa.us2.oraclecloud.com:25017573",
+      "workday:ag:/job/Herndon-Area-VA/Summer-Internship---Digital-AI-Transformation_JR10437881",
+      "workday:graco:/job/Dayton-Minnesota-USA-French-Lake/AI-Intern_R0023511-1",
+      "workday:graco:/job/Dayton-Minnesota-USA-French-Lake/AI-intern_R0023512"
+    ],
+    "telegram": [
+      "lever:crestoperations:e012721c-e731-483d-a4e3-1a240c48bfbd",
+      "ashby:interplay:bdf67758-1f20-4a01-8bb3-ccebfa79e9ac",
+      "ashby:saronic:60afb634-5515-4347-824a-3816735541c2",
+      "oracle:edbz.fa.us2.oraclecloud.com:25017573",
+      "workday:ag:/job/Herndon-Area-VA/Summer-Internship---Digital-AI-Transformation_JR10437881",
+      "workday:graco:/job/Dayton-Minnesota-USA-French-Lake/AI-Intern_R0023511-1",
+      "workday:graco:/job/Dayton-Minnesota-USA-French-Lake/AI-intern_R0023512"
+    ]
   }
 }

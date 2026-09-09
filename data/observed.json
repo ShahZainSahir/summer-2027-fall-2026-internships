@@ -2406,6 +2406,13 @@
       "ashby:saronic:1c74957f-0895-415b-9324-08b0994747d7",
       "ashby:saronic:c95c2e3a-4c67-47b0-a03d-0e0317ac11a3"
      ]
+    },
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "ashby:saronic:60afb634-5515-4347-824a-3816735541c2"
+     ],
+     "count": 1
     }
    }
   },
@@ -3164,5 +3171,5 @@
    }
   }
  },
- "updated_at": "2026-09-09T17:10:04Z"
+ "updated_at": "2026-09-09T20:02:21Z"
 }
