@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-09T01:29:07Z",
- "data_as_of": "2026-09-09T01:29:07Z",
- "rendered_at": "2026-09-09T01:29:07Z",
+ "generated_at": "2026-09-09T06:54:02Z",
+ "data_as_of": "2026-09-09T06:54:02Z",
+ "rendered_at": "2026-09-09T06:54:02Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "companies": [
@@ -2701,6 +2701,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-09-08"
+   }
+  },
+  {
+   "company": "Moog",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-09",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-09",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19888-1",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-09"
    }
   },
   {
@@ -5459,5 +5478,5 @@
    }
   }
  ],
- "count": 287
+ "count": 288
 }
