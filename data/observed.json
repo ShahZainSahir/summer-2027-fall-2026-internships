@@ -345,10 +345,12 @@
      "first_posted": "2026-08-26",
      "role_ids": [
       "workday:aoins:/job/Lansing-MI/Business-Intelligence-Developer-Internship---Summer-2027_R_14417",
+      "workday:aoins:/job/Lansing-MI/IT-Document-Automation-Developer-Internship---Summer-2027_R_14471",
       "workday:aoins:/job/Lansing-MI/IT-Security-Engineer-Internship---Summer-2027_R_14477",
+      "workday:aoins:/job/Lansing-MI/Intelligent-Automation-Developer-Internship---Summer-2027_R_14474",
       "workday:aoins:/job/Lansing-MI/Software-Developer-Internship_R_2121"
      ],
-     "count": 3
+     "count": 5
     }
    }
   },
@@ -613,6 +615,18 @@
     }
    }
   },
+  "chaos industries": {
+   "name": "CHAOS Industries",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "greenhouse:chaosindustries:5226636007"
+     ],
+     "count": 1
+    }
+   }
+  },
   "charles river analytics": {
    "name": "Charles River Analytics",
    "cycles": {
@@ -760,6 +774,24 @@
       "workday:clr:/job/Oklahoma-City-OK/Data-Analyst-Intern--Summer-2027-_R02591-1"
      ],
      "count": 1
+    }
+   }
+  },
+  "cox": {
+   "name": "Cox",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "workday:cox:/job/Atlanta-GA/Data-Scientist-Intern---Summer-2027--Atlanta--GA-_R202682164",
+      "workday:cox:/job/Atlanta-GA/Software-Engineering-Intern---Summer-2027--Atlanta--GA-_R202682166",
+      "workday:cox:/job/Austin-TX/Software-Engineering-Intern---Summer-2027--Austin--TX-_R202682168",
+      "workday:cox:/job/Burlington-VT/Software-Engineering-Intern---Summer-2027--Burlington--VT-_R202682172-1",
+      "workday:cox:/job/Draper-UT/Software-Engineering-Intern---Summer-2027--Draper-UT-_R202682169",
+      "workday:cox:/job/Irvine-CA/Software-Engineering-Intern---Summer-2027--Irvine--CA-_R202682173",
+      "workday:cox:/job/Long-Island-NY/Software-Engineering-Intern---Summer-2027--North-Hills--NY-_R202682171-1"
+     ],
+     "count": 7
     }
    }
   },
@@ -1003,9 +1035,10 @@
     "Fall 2026": {
      "first_posted": "2026-09-03",
      "role_ids": [
-      "smartrecruiters:Eurofins:744000147214369"
+      "smartrecruiters:Eurofins:744000147214369",
+      "smartrecruiters:Eurofins:744000148531473"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1607,6 +1640,7 @@
      "role_ids": [
       "workday:leidos:/job/Alexandria-VA/Cybersecurity-Analyst-Intern_R-00190671",
       "workday:leidos:/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00188311",
+      "workday:leidos:/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00191713",
       "workday:leidos:/job/Bethesda-MD/Cybersecurity-Engineer-Co-op_R-00190764",
       "workday:leidos:/job/Bethesda-MD/Software-Developer-Co-op_R-00190766",
       "workday:leidos:/job/Odenton-MD/Cybersecurity-Analyst-Intern_R-00190663",
@@ -1615,7 +1649,19 @@
       "workday:leidos:/job/Sunset-UT/Cybersecurity-Analyst-Intern_R-00190664",
       "workday:leidos:/job/Whitehall-OH/Cybersecurity-Analyst-Intern_R-00190669"
      ],
-     "count": 9
+     "count": 10
+    }
+   }
+  },
+  "lexington medical": {
+   "name": "Lexington Medical",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "greenhouse:lexingtonmedical:5400236008"
+     ],
+     "count": 1
     }
    }
   },
@@ -2291,10 +2337,11 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871442",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871444",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01867487",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01872878",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-179--855-35Th-St-NE--BLDG-179/Software-Engineering-Intern--Summer-Fall-2027-_01873006",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Software-Engineering-Intern--Summer-2027-_01867324"
      ],
-     "count": 16
+     "count": 17
     }
    }
   },
@@ -2854,6 +2901,18 @@
     }
    }
   },
+  "verizon communications": {
+   "name": "Verizon Communications",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "workday:verizon:/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--AI-ML-Engineering-Summer-2027-Internship_R-1100605"
+     ],
+     "count": 1
+    }
+   }
+  },
   "verkada": {
    "name": "Verkada",
    "cycles": {
@@ -2899,6 +2958,18 @@
      "role_ids": [
       "workday:vrtx:/job/Boston-MA/Vertex-Fall-Co-op-2026--AI-and-Governance_REQ-28615-1"
      ]
+    }
+   }
+  },
+  "viam": {
+   "name": "Viam",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "greenhouse:viamrobotics:6185046004"
+     ],
+     "count": 1
     }
    }
   },
@@ -3093,5 +3164,5 @@
    }
   }
  },
- "updated_at": "2026-09-09T12:36:19Z"
+ "updated_at": "2026-09-09T17:10:04Z"
 }
