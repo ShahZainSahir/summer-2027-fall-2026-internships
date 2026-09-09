@@ -1,12 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "ashby:sierra:34b31b67-268c-4270-b48f-72e59064c96e",
-      "workday:cigna:/job/TX-Austin-11501-Alterra-Pkwy-STE-500/The-Cigna-Group-s-Technology-Development-Program---AI-Engineering-Track-Summer-Internship_26009535"
-    ],
-    "telegram": [
-      "ashby:sierra:34b31b67-268c-4270-b48f-72e59064c96e",
-      "workday:cigna:/job/TX-Austin-11501-Alterra-Pkwy-STE-500/The-Cigna-Group-s-Technology-Development-Program---AI-Engineering-Track-Summer-Internship_26009535"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
