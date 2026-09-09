@@ -1,6 +1,12 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "ashby:allen-control-systems:ed5c58a7-6a3c-474b-aa07-43ff2051cb5c",
+      "workday:cisco:/job/USA-RESEARCH-TRIANGLE-PARK/Software-Consulting-Engineer-I--Intern--United-States_2025180"
+    ],
+    "telegram": [
+      "ashby:allen-control-systems:ed5c58a7-6a3c-474b-aa07-43ff2051cb5c",
+      "workday:cisco:/job/USA-RESEARCH-TRIANGLE-PARK/Software-Consulting-Engineer-I--Intern--United-States_2025180"
+    ]
   }
 }
