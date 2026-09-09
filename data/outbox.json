@@ -1,12 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:aoins:/job/Lansing-MI/IT-Security-Engineer-Internship---Summer-2027_R_14477",
-      "workday:moog:/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19888-1"
-    ],
-    "telegram": [
-      "workday:aoins:/job/Lansing-MI/IT-Security-Engineer-Internship---Summer-2027_R_14477",
-      "workday:moog:/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19888-1"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
