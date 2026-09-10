@@ -1,11 +1,35 @@
 {
- "generated_at": "2026-09-10T00:51:44Z",
- "data_as_of": "2026-09-10T00:51:44Z",
- "rendered_at": "2026-09-10T00:51:45Z",
+ "generated_at": "2026-09-10T05:33:16Z",
+ "data_as_of": "2026-09-10T05:33:16Z",
+ "rendered_at": "2026-09-10T05:33:16Z",
  "source": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
  "count": 659,
  "jobs": [
+  {
+   "id": "workday:allegion:/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer_JR37333-1",
+   "company": "Allegion",
+   "title": "Summer Intern - Firmware Engineer",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Hardware",
+   "location": "Indianapolis, IN - Hague Rd",
+   "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer_JR37333-1",
+   "posted_at": "2026-09-09T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-10T05:33:16Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "C#"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "greenhouse:epicgames:6183293004",
    "company": "Epic Games",
@@ -11164,29 +11188,6 @@
     "Git"
    ],
    "source": "greenhouse",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:canadiansolar:/job/Mesquite-TX/Data-Analyst--Quality-Intern_10001414",
-   "company": "Canadian Solar",
-   "title": "Data Analyst, Quality Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Mesquite, TX",
-   "url": "https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Mesquite-TX/Data-Analyst--Quality-Intern_10001414",
-   "posted_at": "2026-08-24T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-24T21:01:56Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "SQL"
-   ],
-   "source": "workday",
    "h1b_approvals": null,
    "program": "Internship",
    "remote": false
