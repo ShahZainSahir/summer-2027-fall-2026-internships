@@ -2315,6 +2315,13 @@
      "role_ids": [
       "greenhouse:rocketlab:7736776003"
      ]
+    },
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "greenhouse:rocketlab:7989722003"
+     ],
+     "count": 1
     }
    }
   },
@@ -2477,6 +2484,18 @@
      "role_ids": [
       "greenhouse:sharkninjaoperatingllc:4669676006"
      ]
+    }
+   }
+  },
+  "shield ai": {
+   "name": "Shield AI",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "lever:shieldai:8c850c75-081d-4d09-bebf-096379a93010"
+     ],
+     "count": 1
     }
    }
   },
@@ -3184,5 +3203,5 @@
    }
   }
  },
- "updated_at": "2026-09-09T22:48:46Z"
+ "updated_at": "2026-09-10T00:51:44Z"
 }
