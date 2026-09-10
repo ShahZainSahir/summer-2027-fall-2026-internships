@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-10T05:33:16Z</updated>
+  <updated>2026-09-10T10:19:30Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Eurofins:744000148712379</id>
+    <title>Eurofins: 6-month paid internship - AI &amp; Automation</title>
+    <link href="https://jobs.smartrecruiters.com/Eurofins/744000148712379"/>
+    <updated>2026-09-10T10:19:30Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Data &amp; ML/AI · Barcelona, CT, International (ES) · Python, SQL</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:allegion:/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer_JR37333-1</id>
     <title>Allegion: Summer Intern - Firmware Engineer</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-06T13:10:16Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Fort Walton Beach, FL · $141k/yr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Software-Developer-Intern---Ft-Walton-Beach--FL_R0248404</id>
-    <title>Booz Allen: University - 2027 Summer Games Software Developer Intern - Ft. Walton Beach, FL 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Software-Developer-Intern---Ft-Walton-Beach--FL_R0248404"/>
-    <updated>2026-09-06T13:10:16Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Fort Walton Beach, FL · $108k/yr · Python, Java, C++, JavaScript, Bash · sponsorship: citizens-only</summary>
   </entry>
 </feed>

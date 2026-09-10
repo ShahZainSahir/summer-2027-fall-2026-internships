@@ -1037,9 +1037,10 @@
      "first_posted": "2026-09-03",
      "role_ids": [
       "smartrecruiters:Eurofins:744000147214369",
-      "smartrecruiters:Eurofins:744000148531473"
+      "smartrecruiters:Eurofins:744000148531473",
+      "smartrecruiters:Eurofins:744000148712379"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -3203,5 +3204,5 @@
    }
   }
  },
- "updated_at": "2026-09-10T05:33:16Z"
+ "updated_at": "2026-09-10T10:19:30Z"
 }
